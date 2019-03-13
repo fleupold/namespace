@@ -1,0 +1,3 @@
+go seems to have null values?
+does go have ADTs?
+Return type either
